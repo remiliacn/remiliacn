@@ -6,4 +6,4 @@
 - 🌱 正在学习Golang, C#, 还有C++ 啊啊啊想学好C++啊！！！
 - 📫 机器人QQ：`2044450237`
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=remiliacn)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=remiliacn)
