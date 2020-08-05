@@ -1,9 +1,9 @@
 ### Hello World!
 
 
-- 🔭 正在搞QQ机屑人
+- 🔭 Making qqBot
 - 👯 Steam: [祈雨](https://steamcommunity.com/id/qiyu/)
-- 🌱 正在学习Golang, C#, 还有C++ 啊啊啊想学好C++啊！！！
-- 📫 机器人QQ：`2044450237`
+- 🌱 Learning Golang, C#, and C++. Mostly C++
+- 📫 Bot QQ：`2044450237` (Will ignore private message)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=remiliacn)
