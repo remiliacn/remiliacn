@@ -1,7 +1,7 @@
 ### Hello World!
 
 
-- 🔭 Making chat bot.
+- 🔭 Making chat bot and web crawlers
 - 👯 Steam: [祈雨](https://steamcommunity.com/id/qiyu/)
 - 🌱 Learning Golang, C#, and C++. Mostly C++
 - 📫 Bot QQ：`2044450237` (Will ignore private message)
